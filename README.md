@@ -1,11 +1,14 @@
 
 # Masterkey5 <SideStore Source/>
 
-AltStore/ESign/Feather/SideStore/LiveContainer source for all of my favorite and most used apps!
+AltStore/ESign/Feather/SideStore/LiveContainer source for all of my favorite and most used apps!!!
+```
+https://raw.githubusercontent.com/Masterkey55/SideStore-source/main/source/source.json
+```
 
-## ADD ME
+## Quick ADD
 
-| Color |                                                          |
+| Apps |                                                          |
 | ----------------- | ------------------------------------------------------------------ |
 | [SideStore]() 
 | [Altstore]() 
