@@ -59,6 +59,26 @@
       "size": 130397963
     },
     {
+      "name": "MaxTube 2.1 (iOS 16+)",
+      "bundleIdentifier": "com.google.ios.youtubeios16",
+      "developerName": "Mark02",
+      "downloadURL": "https://github.com/Mark02-2012/Mark02workshop-IPAs/releases/download/_/MaxTube_21.33.6_6.0b2.1.ipa",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "subtitle": "MaxTube 2.1 with YouTube version 21.33.6",
+      "localizedDescription": "MaxTube 2.1 with YouTube version 21.33.6",
+      "tintColor": "#FF0000",
+      "versions": [
+        {
+          "version": "21.33.6",
+          "date": "2026-10-22",
+          "localizedDescription": "MaxTube 2.1 with YouTube version 21.33.6",
+          "downloadURL": "https://github.com/Mark02-2012/Mark02workshop-IPAs/releases/download/_/MaxTube_21.33.6_6.0b2.1.ipa",
+          "size": 145176171
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
       "name": "Feather",
       "bundleIdentifier": "thewonderofyou.Feather",
       "developerName": "Samara",
