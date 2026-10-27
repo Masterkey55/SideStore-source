@@ -22,13 +22,13 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "21.37.5",
-          "date": "2026-09-19T00:00:00Z",
-          "localizedDescription": "YouTube 21.37.5 | YTKACE_21.37.5_0.9.3\n\n### Latest Release, ENJOY!!\r\n#### A new free YouTube enhancer for iOS with downloads, iSponsorBlock, DeArrow, player controls, and interface customization.\r\n> [!NOTE]\r\n> - [Altstore source](https://raw.githubusercontent.com/mrdrvt99/Altstore-Repository/main/ytkace.json) is available now!.\r\n> - **YTUHD** is not included. 4K is available for A16+ devices.\r\n> - [v0.9.3 release notes](https://github.com/itzzace/ytkace/releases/tag/v0.9.3)\r\n> - - -\r\n> #### Extra Tweaks:\r\n> - `YouPip` `YTABConfig` `YouQuality` `YouChooseQuality`  `YouGetCaption` `YTHoldForSpeed` `YTNativeShare` `YTweaks`\r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `VolumeBoostYT` `Gonerino` `PleaseDontStopTheMusic`\r\n\r\n> [!IMPORTANT]\r\n> - make sure you reapply tweak by pressing ✔ again after every sideload so background play/pip and cast work. \r\n\r\n> [!WARNING]\r\n> - Extra tweaks that are bundled may be unstable on newer versions.\r\n\r\n> [!WARNING]\r\n> - 21.34.3+ builds require iOS 17+ now.",
-          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytkace-ipa1/YTKACE_21.37.5_0.9.3.ipa",
-          "size": 130397963,
+          "version": "21.42.4",
+          "date": "2026-10-26",
+          "localizedDescription": "YouTube 21.42.4 | YTKACE_21.42.4_1.1.4\n\n### Latest Release, ENJOY!!\r\n#### A new free YouTube enhancer for iOS with downloads, iSponsorBlock, DeArrow, player controls, and interface customization.\r\n> [!NOTE]\r\n> - **YTUHD** is not included. 4K is available.\r\n> - [v1.1.4 release notes](https://github.com/itzzace/ytkace/releases/tag/v1.1.4)\r\n> - Set Download Button to Both in settings to enable downloads. \r\n> - Liquid Glass support\r\n> - - -\r\n> #### Extra Tweaks:\r\n> - `YouPip` `YTABConfig` `YouQuality` `YouChooseQuality`  `YouGetCaption` `YTHoldForSpeed` `YTNativeShare` `YTweaks`\r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `VolumeBoostYT` `Gonerino` `PleaseDontStopTheMusic`\r\n\r\n> [!IMPORTANT]\r\n> - make sure you reapply tweak by pressing ✔ again after every sideload so background play/pip and cast work. \r\n\r\n> [!WARNING]\r\n> - Extra tweaks that are bundled may be unstable on newer versions.\r\n\r\n> [!WARNING]\r\n> - 21.34.3+ builds require iOS 17+ now.",
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytkace-ipa1/YTKACE_21.42.4_1.1.4.ipa",
+          "size": 133883472,
           "buildVersion": null,
-          "minOSVersion": "16.0"
+          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
@@ -55,34 +55,6 @@
           "NSBluetoothPeripheralUsageDescription": "Used for connecting to Bluetooth devices.",
           "NSLocalNetworkUsageDescription": "Used to discover and connect to devices on your local network."
         }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "MaxTube 2.1 (iOS 16+)",
-      "bundleIdentifier": "com.google.ios.youtubeios16",
-      "marketplaceID": "",
-      "developerName": "Mark02",
-      "subtitle": "MaxTube 2.1 with YouTube version 21.33.6",
-      "localizedDescription": "MaxTube 2.1 with YouTube version 21.33.6",
-      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "tintColor": "#FF0000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "21.33.6",
-          "date": "2026-10-22",
-          "localizedDescription": "MaxTube 2.1 with YouTube version 21.33.6",
-          "downloadURL": "https://github.com/Mark02-2012/Mark02workshop-IPAs/releases/download/_/MaxTube_21.33.6_6.0b2.1.ipa",
-          "size": 145176171,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
       },
       "patreon": {}
     },
